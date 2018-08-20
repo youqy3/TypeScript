@@ -1,2 +1,3 @@
 # TypeScript
-add by qingyuan.you
+
+changed by ryan
